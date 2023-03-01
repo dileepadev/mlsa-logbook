@@ -14,8 +14,7 @@ Link - https://studentambassadors.microsoft.com/events/7302
 
 
 ## Event Notes
-Download PDF - [01 - Introduction to Azure, 24.02.2023 (In-Person).pdf](https://github.com/dileepabandara/mlsa-logbook/files/10849605/01.-.Introduction.to.Azure.24.02.2023.In-Person.pdf)
-
+Download PDF - [01 - Introduction to Azure, 24.02.2023 (In-Person).pdf](https://1drv.ms/b/s!Akn_M7gTfDe0gWFLm872o6977h4o?e=yIgCbA) 
 
 ## Event Details
 
