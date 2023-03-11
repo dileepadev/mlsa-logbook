@@ -9,7 +9,7 @@ On March 7th, 2023, the "Getting Started with Microsoft 365" session brought tog
 <img src="https://user-images.githubusercontent.com/80202913/224464356-9d3ded6a-57e0-4b8e-ba9d-a8e8fa1a81f9.png" width=60%>
 
 ## Event Profile
-Link - https://studentambassadors.microsoft.com/events/
+Link - https://studentambassadors.microsoft.com/events/7442
 
 ## Event Notes
 Download PDF - [02 - Getting Started with Microsoft 365, 07.03.2023 (In-Person).pdf](https://1drv.ms/b/s!Akn_M7gTfDe0gWWrOpNwd3zR3cb9?e=AbGjJa) 
@@ -91,7 +91,7 @@ Download PDF - [02 - Getting Started with Microsoft 365, 07.03.2023 (In-Person).
   </tr>
   <tr>
     <td>Event URL</td>
-    <td></td>
+    <td>https://github.com/dileepabandara/mlsa-logbook/tree/main/Events/02%20-%20Getting%20Started%20with%20Microsoft%20365%2C%2007.03.2023%20(In-Person)</td>
   </tr>
   <tr>
     <td>Reach</td>
