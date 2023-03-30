@@ -19,7 +19,7 @@ Event Posts
 - [Facebook](https://facebook.com/story.php?story_fbid=pfbid02oGrUBKcRghBByWrhKbdvGrkc9wt2qBNcfXc6PXTMyUuJBbuiJucaf7EzYhwTAbrXl&id=100057499927935&sfnsn=mo&mibextid=RUbZ1f)
 
 ## Event Profile
-Link - https://studentambassadors.microsoft.com/events/
+Link - <https://studentambassadors.microsoft.com/events/7627>
 
 ## Event Notes
 Download PDF - [03 - Microsoft Student Champs - March 2023, 25,03,2023 (In-Person)](https://1drv.ms/b/s!Akn_M7gTfDe0gW0QDh7FUEXnUnpj?e=2RCezY)
@@ -101,7 +101,7 @@ Download PDF - [03 - Microsoft Student Champs - March 2023, 25,03,2023 (In-Perso
   </tr>
   <tr>
     <td>Event URL</td>
-    <td></td>
+    <td>https://github.com/dileepabandara/mlsa-logbook/blob/main/Events/03%20-%20Microsoft%20Student%20Champs%20-%20March%202023%2C%2025%2C03%2C2023%20(In-Person)/README.md</td>
   </tr>
   <tr>
     <td>Reach</td>
