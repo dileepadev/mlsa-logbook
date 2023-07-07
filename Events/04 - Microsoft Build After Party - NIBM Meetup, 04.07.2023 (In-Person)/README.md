@@ -93,7 +93,7 @@ Download PDF - N/A
   </tr>
   <tr>
     <td>Event URL</td>
-    <td>N/A</td>
+    <td>https://github.com/dileepabandara/mlsa-logbook/blob/main/Events/04%20-%20Microsoft%20Build%20After%20Party%20-%20NIBM%20Meetup%2C%2004.07.2023%20(In-Person)/README.md</td>
   </tr>
   <tr>
     <td>Reach</td>
